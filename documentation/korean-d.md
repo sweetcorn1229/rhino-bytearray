@@ -2,7 +2,7 @@
 
 ## 1. 시작하기
 ```javascript
-const { ByteArray } = require('{path}/index.js');
+const ByteArray = require('{path}/index.js').ByteArray;
 ```
 require 함수가 없다면 <a href="https://github.com/NoBrain0917/Rhino-in-require">여기</a>를 참고
 
