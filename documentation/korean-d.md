@@ -2,4 +2,10 @@
 
 ## 1. 시작하기
 ```javascript
-let ba =
+const { ByteArray } = require('{path}/index.js');
+```
+
+## 2. 사용
+```javascript
+let b = ByteArray(100);
+```
