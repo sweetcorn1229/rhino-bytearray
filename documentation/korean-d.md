@@ -6,6 +6,7 @@ const { ByteArray } = require('{path}/index.js');
 ```
 
 ## 2. 사용
+### ByteArray(size: Number)
 ```javascript
-let b = ByteArray(100);
+let b = ByteArray(size); // 크기가 10인 byte array 생성
 ```
