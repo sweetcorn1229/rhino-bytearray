@@ -2,7 +2,7 @@
 Use byte array in rhino javascript engine
 
 ## Notice
-The byte array made from this code cannot be exactly same with one in java. 
+The byte array made from this code might not be exactly same with one in java.
 
 ## Documentation
 - <a href="https://github.com/sweetcorn1229/rhino-bytearray/blob/main/documentation/english-d.md">English</a>
