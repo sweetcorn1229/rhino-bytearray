@@ -2,5 +2,5 @@
 
 ## 1. 시작하기
 ```javascript
-let b = ByteArray(size);
+let b = (new ByteArray(size)).init();
 ```
