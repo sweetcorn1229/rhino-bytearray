@@ -2,5 +2,5 @@
 
 ## 1. Get Started
 ```javascript
-let b = ByteArray(size);
+let b = (new ByteArray(size)).init();
 ```
